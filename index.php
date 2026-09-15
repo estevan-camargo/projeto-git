@@ -17,6 +17,13 @@
  Este projeto demonstra o desenvolvimento colaborativo
  utilizando Git e GitHub.
 </p>
+<h2>Tecnologias utilizadas</h2>
+<ul>
+ <li>PHP</li>
+ <li>HTML</li>
+ <li>Git</li>
+ <li>GitHub</li>
+</ul>
 
 </body>
 </html>
